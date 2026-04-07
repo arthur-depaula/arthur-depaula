@@ -1,4 +1,4 @@
-# Olá, meu nome é Arthur de Paula. <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="28" height="28" alt="mão balançando" style="vertical-align:middle; animation: wave 2s infinite;"/>
+# Olá, meu nome é Arthur de Paula. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50" alt="mão balançando" style="vertical-align:middle;" />
 
 ## Desenvolvedor Backend | Java
 

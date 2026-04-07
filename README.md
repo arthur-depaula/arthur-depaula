@@ -3,17 +3,6 @@
 ## Desenvolvedor Backend | Java
 
 Eu chamo Arthur Gabriel de Paula Silva, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Engenharia de Software (1/8) no Centro Universitário Católico do Leste de Minas Gerais (UNILESTE). Sou apaixonado por tecnologia, ja possuo uma base sólida em logica de programação, e atualmente estou aprimorando meus conhecimentos em Java.
----
-
-## Habilidades
-
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-
----
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arthur-depaula&show_icons=true&theme=dark&hide_border=true)
   <!-- Instagram -->
   
   <a href="https://www.instagram.com/arthurr30_" target="_blank">
@@ -30,5 +19,17 @@ Eu chamo Arthur Gabriel de Paula Silva, tenho 18 anos e sou natural de Minas Ger
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
+
+
+## Habilidades
+
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+
+---
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arthur-depaula&show_icons=true&theme=dark&hide_border=true)
+
 
 

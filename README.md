@@ -27,9 +27,5 @@ Eu chamo Arthur Gabriel de Paula Silva, tenho 18 anos e sou natural de Minas Ger
 
 ---
 
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=arthur-depaula&show_icons=true&theme=dark&hide_border=true)
-
 
 

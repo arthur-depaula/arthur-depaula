@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Backend | Java
 
-Eu chamo Arthur Gabriel de Paula Silva, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Engenharia de Software (1/8) no Centro Universitário Católico do Leste de Minas Gerais (UNILESTE). Sou apaixonado por tecnologia, ja possuo uma base sólida em logica de programação, e atualmente estou aprimorando meus conhecimentos em Java.
+Eu chamo Arthur Gabriel de Paula Silva, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Engenharia de Software (1/8) no Centro Universitário Católico do Leste de Minas Gerais (UNILESTE). Sou apaixonado por tecnologia, ja possuo uma base sólida em logica de programação, e atualmente estou aprimorando meus conhecimentos em Java. Futuramente, pretendo seguir carreira como profissional de segurança da informação.
   <!-- Instagram -->
   
   <a href="https://www.instagram.com/arthurr30_" target="_blank">
